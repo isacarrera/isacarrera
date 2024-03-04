@@ -24,12 +24,21 @@
 
 # Idiomas 
  -Español
+ 
 -Ingles (en practica)
 
 
 # Habilidades tecnicas
 
 - En formacion
+
+  ## Contacto
+
+   Correo Electronico
+  
+   - [isacarrera1105@gmail.com]
+
+     
 
 
 <!--
